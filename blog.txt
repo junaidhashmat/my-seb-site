@@ -1,0 +1,43 @@
+<h1>Blog</h1>
+    <article class="blog-item">
+        <header>
+            <h3 > UI interaction article this week </h3>
+        </header>
+        <div><span class="date-posted">12 Feb 2022</span> | <span class="location">Express, Handlebars</span></div>       
+         <p>when the world is coming down the flags are up whoes 
+            gonna be number one whoes gonna tzke outhe cp who </p>
+    </article>
+
+    <article class="blog-item">
+        <header> 
+            <h3 > UI interaction article this week </h3>
+        </header>
+        <div><span class="date-posted">12 Feb 2022</span> | <span class="location">Express, Handlebars</span></div>       
+            <p>when the world is coming down the flags are up whoes 
+            gonna be number one whoes gonna tzke outhe cp who </p>
+    </article>
+
+    <article class="blog-item">
+        <header >
+            <h3 > UI interaction article this week </h3>
+        </header>
+        <div><span class="date-posted">12 Feb 2022</span> | <span class="location">Express, Handlebars</span></div>       
+           <p>when the world is coming down the flags are up whoes 
+            gonna be number one whoes gonna tzke outhe cp who </p>
+    </article>
+
+
+
+    .blog-item h3 {
+    font-weight: 500;
+    font-size: 30px;
+    line-height: 44px;
+    color: #21243D;
+}
+
+.blog-item .date-posted{
+    color: rgb(40, 33, 33);
+}
+.blog-item .location{
+    color: rgb(192, 198, 192);
+}
